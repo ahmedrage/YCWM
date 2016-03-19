@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/enemyTesting.unity
+- path: Assets/playerTesting.unity
   isLoaded: 1
   isActive: 1
